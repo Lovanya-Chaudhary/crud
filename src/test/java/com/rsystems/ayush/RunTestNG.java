@@ -23,7 +23,7 @@ TestNG runner=new TestNG();
 List<String> suitefiles=new ArrayList<String>();
  
 // Add xml file which you have to execute
-suitefiles.add("/var/lib/jenkins/workspace/testng.xml");
+suitefiles.add("F:\\Eclipse 2012\\automation-tool\\Automation-Poc\\testng.xml");
  
 // now set xml file for execution
 runner.setTestSuites(suitefiles);
