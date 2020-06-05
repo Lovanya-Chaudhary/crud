@@ -14,12 +14,6 @@
 
 <dependencies>
 
-<dependency>
-    <groupId>com.rsystems.springbootquickstart</groupId>
-  <artifactId>company-api-withJPA</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-</dependency>
-
 <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
 <dependency>
     <groupId>io.rest-assured</groupId>
