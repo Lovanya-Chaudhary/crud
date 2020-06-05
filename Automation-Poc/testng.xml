@@ -1,0 +1,34 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite thread-count="1" verbose="1" name="Test Suite" annotations="JDK" parallel="tests">
+
+
+<listeners>
+      <listener class-name = "com.rsystems.ayush.ListenerClass" />
+   </listeners>
+   
+   
+
+	<test name="Test1">
+		<classes>
+			<class name="com.rsystems.ayush.Test01_Get" />
+		</classes>
+	</test>
+
+	<test name="Test2">
+		<classes>
+			<class name="com.rsystems.ayush.Test02_Delete" />
+		</classes>
+	</test>
+	
+	<test name="Test3">
+		<classes>
+			<class name="com.rsystems.ayush.Test03_Post" />
+		</classes>
+	</test>
+	
+	<test name="Test4">
+		<classes>
+			<class name="com.rsystems.ayush.Test04_Put" />
+		</classes>
+	</test>
+	</suite>

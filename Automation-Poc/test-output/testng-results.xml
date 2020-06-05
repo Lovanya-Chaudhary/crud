@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="1991" started-at="2020-06-02T17:15:08 IST" finished-at="2020-06-02T17:15:10 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="1620" started-at="2020-06-02T17:15:08 IST" finished-at="2020-06-02T17:15:10 IST">
+      <class name="com.rsystems.ayush.Test01_Get">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.rsystems.ayush.Test01_Get@38364841]" name="test01" duration-ms="1598" started-at="2020-06-02T17:15:08 IST" finished-at="2020-06-02T17:15:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- com.rsystems.ayush.Test01_Get -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="134" started-at="2020-06-02T17:15:10 IST" finished-at="2020-06-02T17:15:10 IST">
+      <class name="com.rsystems.ayush.Test02_Delete">
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.rsystems.ayush.Test02_Delete@345965f2]" name="test02" duration-ms="133" started-at="2020-06-02T17:15:10 IST" finished-at="2020-06-02T17:15:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+      </class> <!-- com.rsystems.ayush.Test02_Delete -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="153" started-at="2020-06-02T17:15:10 IST" finished-at="2020-06-02T17:15:10 IST">
+      <class name="com.rsystems.ayush.Test03_Post">
+        <test-method status="PASS" signature="Test03()[pri:0, instance:com.rsystems.ayush.Test03_Post@351d0846]" name="Test03" duration-ms="152" started-at="2020-06-02T17:15:10 IST" finished-at="2020-06-02T17:15:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+      </class> <!-- com.rsystems.ayush.Test03_Post -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="71" started-at="2020-06-02T17:15:10 IST" finished-at="2020-06-02T17:15:10 IST">
+      <class name="com.rsystems.ayush.Test04_Put">
+        <test-method status="PASS" signature="test04()[pri:0, instance:com.rsystems.ayush.Test04_Put@1dd92fe2]" name="test04" duration-ms="70" started-at="2020-06-02T17:15:10 IST" finished-at="2020-06-02T17:15:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+      </class> <!-- com.rsystems.ayush.Test04_Put -->
+    </test> <!-- Test4 -->
+  </suite> <!-- Test Suite -->
+</testng-results>
